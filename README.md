@@ -1,5 +1,5 @@
 # RaccuGen
-Discord Generator Bot By Raccu
+Discord Account Generator Bot By Raccu
 
 Comming soon
 
