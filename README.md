@@ -1,7 +1,11 @@
 # RaccuGen
-Free Account Generator Discord Bot
+# Free Account Generator Discord Bot
 
-Relese Soon
+
+
+Release Soon
+
+
 
 Raccu - Gateway
 
