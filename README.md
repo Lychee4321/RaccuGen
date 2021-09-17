@@ -1,4 +1,4 @@
-# Free Account Generator Discord Bot
+# Account Generator Discord Bot
 
 
 
