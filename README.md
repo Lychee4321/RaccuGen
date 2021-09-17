@@ -1,4 +1,3 @@
-# RaccuGen
 # Free Account Generator Discord Bot
 
 
